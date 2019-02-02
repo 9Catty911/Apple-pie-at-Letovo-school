@@ -26,7 +26,6 @@ class ViewController: UIViewController {
         } else {
             topStackView.axis = .horizontal
         }
-        
     }
  
 }
